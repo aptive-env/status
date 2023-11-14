@@ -12,7 +12,8 @@ status-website:
   cname: status.aptivetech.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/aptive-env/status/master/assets/logo.svg
-  themeUrl: https://raw.githubusercontent.com/aptive-env/status/master/assets/aptive.css
+  # themeUrl: https://raw.githubusercontent.com/aptive-env/status/master/assets/aptive.css
+  theme: dark
   name: Aptive Technology Status
   introTitle: ""
   introMessage: This is the status of services maintained by Aptive Environmental.
