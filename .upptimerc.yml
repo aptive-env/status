@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.aptivetech.com
   # baseUrl: /your-repo-name
-  logoUrl: https://status.aptivetech.com/logo.svg
-  themeUrl: https://status.aptivetech.com/aptive.css
+  logoUrl: https://raw.githubusercontent.com/aptive-env/status/master/assets/logo.svg
+  themeUrl: https://raw.githubusercontent.com/aptive-env/status/master/assets/aptive.css
   name: Aptive Technology Status
   introTitle: ""
   introMessage: This is the status of services maintained by Aptive Environmental.
