@@ -5,6 +5,30 @@ repo: status # The name of this repository
 sites:
   - name: Aptive Corporate
     url: https://www.goaptive.com
+  - name: Branch Manager
+    url: https://bmapi.aptive.guru/users/getQuotes
+  - name: Field Service
+    url: https://api.field-services.prd.goaptive.com
+  - name: Guru
+    url: https://apistats.aptive.guru
+  - name: Onboarding
+    url: https://api.onboarding.prd.goaptive.com
+  - name: Notifications
+    url: https://api.notifications.prd.goaptive.com
+  - name: Sales API
+    url: https://api.sales-app.prd.goaptive.com/health-check
+  - name: Sales Planning Tool
+    url: https://spt-api.rep-services.prd.goaptive.com/api/documentation
+  - name: Streetsmarts
+    url: https://api.street-smarts.prd.goaptive.com/health-check
+  - name: Customer Portal
+    url: https://api.customer-portal.prd.goaptive.com
+  - name: Plan Builder
+    url: https://api.plan-builder.prd.goaptive.com/health-check
+  - name: Product Manager
+    url: https://api.product-manager.prd.goaptive.com/health-check
+  - name: Lead Manager
+    url: https://api.product-manager.prd.goaptive.com/health-check
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
