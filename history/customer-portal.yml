@@ -1,7 +1,7 @@
 url: https://api.customer-portal.prd.goaptive.com
-status: down
-code: 500
-responseTime: 1016
-lastUpdated: 2023-12-07T11:22:54.039Z
+status: up
+code: 200
+responseTime: 271
+lastUpdated: 2023-12-07T11:29:26.944Z
 startTime: 2023-11-14T21:13:46.811Z
 generator: Upptime <https://github.com/upptime/upptime>
