@@ -166,19 +166,19 @@
     "url": "https://api.customer-portal.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.customer-portal.prd.goaptive.com.ico",
     "slug": "customer-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 914,
-    "timeDay": 638,
-    "timeWeek": 430,
-    "timeMonth": 914,
-    "timeYear": 914,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 890,
+    "timeDay": 515,
+    "timeWeek": 412,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2023-12-07": 0
+      "2023-12-07": 7
     }
   },
   {
