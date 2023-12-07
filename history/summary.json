@@ -166,18 +166,20 @@
     "url": "https://api.customer-portal.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.customer-portal.prd.goaptive.com.ico",
     "slug": "customer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 910,
-    "timeDay": 259,
-    "timeWeek": 346,
-    "timeMonth": 910,
-    "timeYear": 910,
-    "dailyMinutesDown": {}
+    "time": 914,
+    "timeDay": 638,
+    "timeWeek": 430,
+    "timeMonth": 914,
+    "timeYear": 914,
+    "dailyMinutesDown": {
+      "2023-12-07": 0
+    }
   },
   {
     "name": "Plan Builder",
