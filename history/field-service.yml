@@ -1,7 +1,7 @@
 url: https://api.field-services.prd.goaptive.com
-status: down
-code: 502
-responseTime: 272
-lastUpdated: 2023-12-28T08:32:10.177Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2023-12-28T08:38:40.814Z
 startTime: 2023-11-14T21:13:40.498Z
 generator: Upptime <https://github.com/upptime/upptime>
