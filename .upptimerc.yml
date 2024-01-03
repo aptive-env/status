@@ -44,6 +44,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: DataDog
+      href: https://us5.datadoghq.com/dashboard/r8q-n2s-9jf/service-health-all-services?refresh_mode=sliding&view=spans&from_ts=1704323353148&to_ts=1704324253148&live=true
 
 i18n:
   footer: Aptive Environmental, LLC
