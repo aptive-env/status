@@ -40,18 +40,20 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 365,
-    "timeDay": 302,
-    "timeWeek": 353,
-    "timeMonth": 367,
-    "timeYear": 365,
-    "dailyMinutesDown": {}
+    "time": 363,
+    "timeDay": 290,
+    "timeWeek": 369,
+    "timeMonth": 364,
+    "timeYear": 363,
+    "dailyMinutesDown": {
+      "2024-01-04": 0
+    }
   },
   {
     "name": "Guru",
