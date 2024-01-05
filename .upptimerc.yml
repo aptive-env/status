@@ -15,6 +15,8 @@ sites:
     url: https://api.onboarding.prd.goaptive.com
   - name: Notifications
     url: https://api.notifications.prd.goaptive.com
+  - name: Payment Service API
+    url: https://api.payment-service.prd.goaptive.com
   - name: Sales API
     url: https://api.sales-app.prd.goaptive.com/health-check
   - name: Sales Planning Tool
