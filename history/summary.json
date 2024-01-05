@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 360,
+    "timeDay": 525,
     "timeWeek": 355,
     "timeMonth": 360,
     "timeYear": 365,
@@ -105,6 +105,24 @@
     "timeWeek": 330,
     "timeMonth": 300,
     "timeYear": 298,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Payment Service API",
+    "url": "https://api.payment-service.prd.goaptive.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.payment-service.prd.goaptive.com.ico",
+    "slug": "payment-service-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
     "dailyMinutesDown": {}
   },
   {
