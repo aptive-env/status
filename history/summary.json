@@ -239,18 +239,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
     "status": "up",
-    "uptime": "2.36%",
-    "uptimeDay": "2.36%",
-    "uptimeWeek": "2.36%",
-    "uptimeMonth": "2.36%",
-    "uptimeYear": "2.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 319,
     "timeWeek": 319,
     "timeMonth": 319,
     "timeYear": 319,
-    "dailyMinutesDown": {
-      "2024-01-12": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
