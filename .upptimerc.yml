@@ -29,6 +29,8 @@ sites:
     url: https://api.plan-builder.prd.goaptive.com/health-check
   - name: Product Manager
     url: https://api.product-manager.prd.goaptive.com/health-check
+  - name: Self Service
+    url: https://api.self-service.prd.goaptive.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
