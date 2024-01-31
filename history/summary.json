@@ -94,18 +94,20 @@
     "url": "https://api.notifications.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.notifications.prd.goaptive.com.ico",
     "slug": "notifications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 417,
-    "timeWeek": 297,
-    "timeMonth": 339,
-    "timeYear": 310,
-    "dailyMinutesDown": {}
+    "time": 308,
+    "timeDay": 263,
+    "timeWeek": 274,
+    "timeMonth": 333,
+    "timeYear": 308,
+    "dailyMinutesDown": {
+      "2024-01-31": 0
+    }
   },
   {
     "name": "Payment Service API",
