@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spt-api.rep-services.prd.goaptive.com.ico",
     "slug": "sales-planning-tool",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 321,
     "timeDay": 112,
     "timeWeek": 257,
     "timeMonth": 235,
     "timeYear": 321,
     "dailyMinutesDown": {
-      "2024-03-26": 2
+      "2024-03-26": 16
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://api.street-smarts.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.street-smarts.prd.goaptive.com.ico",
     "slug": "streetsmarts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 200,
-    "timeDay": 97,
-    "timeWeek": 197,
-    "timeMonth": 222,
+    "timeDay": 138,
+    "timeWeek": 194,
+    "timeMonth": 220,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 14
     }
   },
   {
