@@ -114,19 +114,19 @@
     "url": "https://api.payment-service.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.payment-service.prd.goaptive.com.ico",
     "slug": "payment-service-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 557,
-    "timeWeek": 445,
-    "timeMonth": 455,
-    "timeYear": 441,
+    "time": 455,
+    "timeDay": 1159,
+    "timeWeek": 609,
+    "timeMonth": 498,
+    "timeYear": 455,
     "dailyMinutesDown": {
-      "2024-03-29": 0
+      "2024-03-29": 5
     }
   },
   {
