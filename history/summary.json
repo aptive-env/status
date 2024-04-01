@@ -4,18 +4,20 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 431,
-    "timeWeek": 381,
-    "timeMonth": 337,
+    "timeDay": 414,
+    "timeWeek": 383,
+    "timeMonth": 339,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-01": 0
+    }
   },
   {
     "name": "Branch Manager",
