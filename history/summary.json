@@ -4,19 +4,19 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 406,
-    "timeDay": 414,
-    "timeWeek": 383,
-    "timeMonth": 339,
+    "timeDay": 438,
+    "timeWeek": 394,
+    "timeMonth": 343,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-04-01": 0
+      "2024-04-01": 6
     }
   },
   {
