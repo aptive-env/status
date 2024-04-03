@@ -40,9 +40,9 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 337,
     "timeMonth": 442,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "Guru",
@@ -176,12 +178,12 @@
     "slug": "streetsmarts",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "96.52%",
+    "uptimeDay": "96.89%",
     "uptimeWeek": "97.61%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "99.86%",
     "time": 219,
-    "timeDay": 1534,
+    "timeDay": 2253,
     "timeWeek": 378,
     "timeMonth": 278,
     "timeYear": 219,
