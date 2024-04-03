@@ -40,19 +40,19 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 220,
-    "timeWeek": 337,
-    "timeMonth": 442,
-    "timeYear": 392,
+    "time": 393,
+    "timeDay": 383,
+    "timeWeek": 363,
+    "timeMonth": 445,
+    "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-04-03": 0
+      "2024-04-03": 5
     }
   },
   {
