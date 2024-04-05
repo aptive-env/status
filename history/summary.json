@@ -80,18 +80,16 @@
     "slug": "onboarding",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
     "timeDay": 173,
     "timeWeek": 166,
     "timeMonth": 228,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2024-04-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Notifications",
@@ -177,10 +175,10 @@
     "url": "https://api.street-smarts.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.street-smarts.prd.goaptive.com.ico",
     "slug": "streetsmarts",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "97.60%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "97.59%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.84%",
     "time": 218,
@@ -189,6 +187,7 @@
     "timeMonth": 278,
     "timeYear": 218,
     "dailyMinutesDown": {
+      "2024-04-05": 0,
       "2024-04-04": 52,
       "2024-04-03": 45,
       "2024-04-02": 53,
