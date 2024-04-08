@@ -42,18 +42,16 @@
     "slug": "field-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 244,
     "timeWeek": 323,
     "timeMonth": 414,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2024-04-08": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guru",
@@ -98,10 +96,10 @@
     "url": "https://api.notifications.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.notifications.prd.goaptive.com.ico",
     "slug": "notifications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 332,
@@ -109,7 +107,9 @@
     "timeWeek": 355,
     "timeMonth": 353,
     "timeYear": 332,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-08": 2
+    }
   },
   {
     "name": "Payment Service API",
@@ -227,9 +227,9 @@
     "url": "https://api.plan-builder.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.plan-builder.prd.goaptive.com.ico",
     "slug": "plan-builder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -238,7 +238,9 @@
     "timeWeek": 170,
     "timeMonth": 209,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-08": 0
+    }
   },
   {
     "name": "Product Manager",
