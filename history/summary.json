@@ -40,9 +40,9 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 357,
     "timeMonth": 428,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-08": 0
+    }
   },
   {
     "name": "Guru",
@@ -152,9 +154,9 @@
     "slug": "sales-planning-tool",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "99.91%",
     "time": 292,
     "timeDay": 132,
@@ -162,7 +164,6 @@
     "timeMonth": 197,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2024-04-08": 5,
       "2024-04-05": 27,
       "2024-04-04": 25,
       "2024-04-03": 19,
