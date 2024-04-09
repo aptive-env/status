@@ -132,19 +132,19 @@
     "url": "https://api.sales-app.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.sales-app.prd.goaptive.com.ico",
     "slug": "sales-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 233,
-    "timeDay": 159,
-    "timeWeek": 146,
-    "timeMonth": 319,
+    "timeDay": 172,
+    "timeWeek": 151,
+    "timeMonth": 314,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-04-09": 0
+      "2024-04-09": 19
     }
   },
   {
