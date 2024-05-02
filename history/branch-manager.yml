@@ -1,7 +1,7 @@
 url: https://bmapi.aptive.guru/users/getQuotes
-status: down
-code: 500
-responseTime: 870
-lastUpdated: 2024-05-02T19:16:41.973Z
+status: up
+code: 200
+responseTime: 835
+lastUpdated: 2024-05-02T19:23:04.039Z
 startTime: 2023-11-14T21:13:38.724Z
 generator: Upptime <https://github.com/upptime/upptime>
