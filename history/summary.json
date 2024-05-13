@@ -22,19 +22,19 @@
     "url": "https://bmapi.aptive.guru/users/getQuotes",
     "icon": "https://icons.duckduckgo.com/ip3/bmapi.aptive.guru.ico",
     "slug": "branch-manager",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1223,
-    "timeDay": 1354,
-    "timeWeek": 1184,
-    "timeMonth": 1100,
-    "timeYear": 1223,
+    "time": 1221,
+    "timeDay": 1147,
+    "timeWeek": 1134,
+    "timeMonth": 1089,
+    "timeYear": 1221,
     "dailyMinutesDown": {
-      "2024-05-13": 2
+      "2024-05-13": 9
     }
   },
   {
@@ -44,18 +44,16 @@
     "slug": "field-service",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 510,
     "timeDay": 9197,
     "timeWeek": 2693,
     "timeMonth": 1126,
     "timeYear": 510,
-    "dailyMinutesDown": {
-      "2024-05-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Guru",
@@ -160,7 +158,7 @@
     "uptime": "92.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.32%",
+    "uptimeMonth": "56.30%",
     "uptimeYear": "92.56%",
     "time": 341,
     "timeDay": 360,
@@ -168,7 +166,7 @@
     "timeMonth": 182,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-05-13": 1275,
+      "2024-05-13": 1283,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -275,7 +273,7 @@
     "uptime": "85.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.29%",
+    "uptimeMonth": "11.27%",
     "uptimeYear": "85.09%",
     "time": 193,
     "timeDay": 0,
@@ -283,7 +281,7 @@
     "timeMonth": 236,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-05-13": 1275,
+      "2024-05-13": 1283,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
