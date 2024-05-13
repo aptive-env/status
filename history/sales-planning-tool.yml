@@ -1,7 +1,7 @@
-url: https://spt-api.rep-services.prd.goaptive.com/api/documentation
-status: down
-code: 404
-responseTime: 360
-lastUpdated: 2024-05-12T23:01:34.369Z
+url: https://spt-api.rep-services.prd.goaptive.com/
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2024-05-13T22:44:31.258Z
 startTime: 2023-11-14T21:13:45.227Z
 generator: Upptime <https://github.com/upptime/upptime>
