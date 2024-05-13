@@ -24,27 +24,25 @@
     "slug": "branch-manager",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1221,
     "timeDay": 1147,
     "timeWeek": 1134,
     "timeMonth": 1089,
     "timeYear": 1221,
-    "dailyMinutesDown": {
-      "2024-05-13": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Field Service",
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +51,9 @@
     "timeWeek": 2693,
     "timeMonth": 1126,
     "timeYear": 510,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "Guru",
@@ -158,7 +158,7 @@
     "uptime": "92.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.30%",
+    "uptimeMonth": "56.29%",
     "uptimeYear": "92.56%",
     "time": 341,
     "timeDay": 360,
@@ -166,7 +166,7 @@
     "timeMonth": 182,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-05-13": 1283,
+      "2024-05-13": 1290,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -273,7 +273,7 @@
     "uptime": "85.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "11.27%",
+    "uptimeMonth": "11.26%",
     "uptimeYear": "85.09%",
     "time": 193,
     "timeDay": 0,
@@ -281,7 +281,7 @@
     "timeMonth": 236,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-05-13": 1283,
+      "2024-05-13": 1290,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
