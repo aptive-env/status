@@ -24,7 +24,7 @@ sites:
   - name: Streetsmarts
     url: https://api.street-smarts.prd.goaptive.com/health-check
   - name: Customer Portal
-    url: https://api.customer-portal.prd.goaptive.com
+    url: https://my.goaptive.com
   - name: Plan Builder
     url: https://api.plan-builder.prd.goaptive.com/health-check
   - name: Self Service
