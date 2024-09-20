@@ -1,7 +1,7 @@
-url: https://api.payment-service.prd.goaptive.com
+url: https://api.aptive.tech/payments/health
 status: up
 code: 200
-responseTime: 336
-lastUpdated: 2024-09-19T23:01:29.826Z
+responseTime: 302
+lastUpdated: 2024-09-20T07:41:26.532Z
 startTime: 2024-01-05T16:58:58.248Z
 generator: Upptime <https://github.com/upptime/upptime>
