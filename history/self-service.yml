@@ -1,7 +1,7 @@
 url: https://api.self-service.prd.goaptive.com/healthcheck
 status: up
 code: 200
-responseTime: 262
-lastUpdated: 2024-11-20T23:01:38.031Z
+responseTime: 217
+lastUpdated: 2024-11-21T23:01:37.487Z
 startTime: 2024-01-12T00:02:59.928Z
 generator: Upptime <https://github.com/upptime/upptime>
