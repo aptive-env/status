@@ -102,9 +102,9 @@
     "url": "https://api.notifications.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.notifications.prd.goaptive.com.ico",
     "slug": "notifications",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 478,
     "timeMonth": 473,
     "timeYear": 333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 0
+    }
   },
   {
     "name": "Payment Service API",
@@ -162,7 +164,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/spt-api.rep-services.prd.goaptive.com.ico",
     "slug": "sales-planning-tool",
     "status": "up",
-    "uptime": "96.53%",
+    "uptime": "96.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -241,7 +243,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.goaptive.com.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "80.13%",
+    "uptime": "80.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
