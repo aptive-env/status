@@ -1,7 +1,7 @@
 url: https://api.aptive.tech/payments/health
-status: down
-code: 503
-responseTime: 72
-lastUpdated: 2024-12-19T08:22:00.765Z
+status: up
+code: 200
+responseTime: 726
+lastUpdated: 2024-12-19T08:34:01.186Z
 startTime: 2024-01-05T16:58:58.248Z
 generator: Upptime <https://github.com/upptime/upptime>
