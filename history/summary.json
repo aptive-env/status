@@ -64,9 +64,9 @@
     "url": "https://apistats.aptive.guru",
     "icon": "https://icons.duckduckgo.com/ip3/apistats.aptive.guru.ico",
     "slug": "guru",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -75,7 +75,9 @@
     "timeWeek": 246,
     "timeMonth": 352,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-24": 0
+    }
   },
   {
     "name": "Onboarding",
@@ -170,7 +172,7 @@
     "timeDay": 216,
     "timeWeek": 171,
     "timeMonth": 172,
-    "timeYear": 220,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2024-05-13": 1365,
       "2024-05-12": 1440,
@@ -240,7 +242,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.goaptive.com.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
