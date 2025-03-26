@@ -6,9 +6,9 @@
     "slug": "aptive-corporate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
     "timeDay": 529,
@@ -16,7 +16,6 @@
     "timeMonth": 526,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2025-03-26": 9,
       "2024-08-06": 0
     }
   },
@@ -119,9 +118,9 @@
     "url": "https://api.aptive.tech/payments/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.tech.ico",
     "slug": "payment-service-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -131,6 +130,7 @@
     "timeMonth": 400,
     "timeYear": 462,
     "dailyMinutesDown": {
+      "2025-03-26": 0,
       "2025-01-08": 21,
       "2024-10-18": 30,
       "2024-10-17": 0
