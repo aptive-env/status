@@ -82,11 +82,11 @@
     "url": "https://api.onboarding.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.onboarding.prd.goaptive.com.ico",
     "slug": "onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 207,
     "timeDay": 237,
@@ -94,7 +94,7 @@
     "timeMonth": 218,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2025-04-28": 5
+      "2025-04-28": 1
     }
   },
   {
