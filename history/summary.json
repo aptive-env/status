@@ -82,10 +82,10 @@
     "url": "https://api.onboarding.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.onboarding.prd.goaptive.com.ico",
     "slug": "onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 206,
@@ -93,7 +93,9 @@
     "timeWeek": 188,
     "timeMonth": 214,
     "timeYear": 203,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-28": 1
+    }
   },
   {
     "name": "Notifications",
@@ -127,7 +129,7 @@
     "time": 599,
     "timeDay": 302,
     "timeWeek": 333,
-    "timeMonth": 2192,
+    "timeMonth": 2310,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2025-01-08": 21,
@@ -212,7 +214,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.goaptive.com.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "85.38%",
+    "uptime": "85.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
