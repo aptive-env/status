@@ -44,18 +44,20 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 1150,
-    "timeWeek": 651,
-    "timeMonth": 641,
-    "timeYear": 598,
-    "dailyMinutesDown": {}
+    "timeDay": 643,
+    "timeWeek": 586,
+    "timeMonth": 624,
+    "timeYear": 597,
+    "dailyMinutesDown": {
+      "2025-05-17": 0
+    }
   },
   {
     "name": "Guru",
@@ -195,7 +197,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.goaptive.com.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "85.88%",
+    "uptime": "85.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
