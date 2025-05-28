@@ -80,19 +80,19 @@
     "url": "https://api.onboarding.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.onboarding.prd.goaptive.com.ico",
     "slug": "onboarding",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 182,
-    "timeWeek": 204,
-    "timeMonth": 230,
-    "timeYear": 203,
+    "timeDay": 168,
+    "timeWeek": 198,
+    "timeMonth": 228,
+    "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-05-28": 0
+      "2025-05-28": 7
     }
   },
   {
@@ -307,9 +307,9 @@
     "url": "https://api.self-service.prd.goaptive.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -318,6 +318,8 @@
     "timeWeek": 386,
     "timeMonth": 466,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   }
 ]
