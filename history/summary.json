@@ -194,11 +194,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.goaptive.com.ico",
     "slug": "customer-portal",
     "status": "up",
-    "uptime": "86.33%",
+    "uptime": "86.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.49%",
+    "uptimeYear": "82.62%",
     "time": 255,
     "timeDay": 201,
     "timeWeek": 314,
@@ -296,17 +296,19 @@
     "url": "https://api.self-service.prd.goaptive.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 456,
-    "timeWeek": 361,
-    "timeMonth": 424,
-    "timeYear": 321,
-    "dailyMinutesDown": {}
+    "time": 327,
+    "timeDay": 313,
+    "timeWeek": 340,
+    "timeMonth": 416,
+    "timeYear": 320,
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   }
 ]
