@@ -1,7 +1,7 @@
 url: https://api.notifications.prd.goaptive.com
-status: down
-code: 502
-responseTime: 9217
-lastUpdated: 2025-06-06T15:59:20.968Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2025-06-06T16:09:37.658Z
 startTime: 2023-11-14T21:13:43.378Z
 generator: Upptime <https://github.com/upptime/upptime>
