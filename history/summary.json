@@ -96,19 +96,19 @@
     "url": "https://api.notifications.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.notifications.prd.goaptive.com.ico",
     "slug": "notifications",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 389,
-    "timeDay": 405,
-    "timeWeek": 1393,
-    "timeMonth": 679,
+    "timeDay": 401,
+    "timeWeek": 1293,
+    "timeMonth": 670,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2025-06-09": 0
+      "2025-06-09": 14
     }
   },
   {
