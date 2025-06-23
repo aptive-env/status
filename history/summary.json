@@ -44,9 +44,9 @@
     "slug": "field-service",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.98%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.96%",
     "time": 728,
     "timeDay": 7556,
@@ -54,7 +54,7 @@
     "timeMonth": 1304,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-06-23": 72,
+      "2025-06-23": 83,
       "2025-06-12": 124
     }
   },
@@ -101,9 +101,9 @@
     "slug": "notifications",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "93.86%",
-    "uptimeWeek": "99.12%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 390,
     "timeDay": 415,
@@ -111,7 +111,7 @@
     "timeMonth": 649,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-06-23": 88
+      "2025-06-23": 99
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "https://api.street-smarts.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.street-smarts.prd.goaptive.com.ico",
     "slug": "streetsmarts",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
-    "time": 335,
-    "timeDay": 14117,
-    "timeWeek": 5773,
-    "timeMonth": 1797,
-    "timeYear": 356,
+    "time": 369,
+    "timeDay": 14513,
+    "timeWeek": 6712,
+    "timeMonth": 2195,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2025-06-23": 33,
+      "2025-06-23": 43,
       "2025-05-28": 36,
       "2025-03-26": 84
     }
