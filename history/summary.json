@@ -44,9 +44,9 @@
     "slug": "field-service",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 728,
     "timeDay": 7556,
@@ -54,7 +54,7 @@
     "timeMonth": 1304,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-06-23": 13,
+      "2025-06-23": 46,
       "2025-06-12": 124
     }
   },
@@ -100,10 +100,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.notifications.prd.goaptive.com.ico",
     "slug": "notifications",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 390,
     "timeDay": 415,
@@ -111,7 +111,7 @@
     "timeMonth": 649,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-06-23": 29
+      "2025-06-23": 62
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "https://api.street-smarts.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.street-smarts.prd.goaptive.com.ico",
     "slug": "streetsmarts",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.98%",
-    "time": 267,
-    "timeDay": 11892,
-    "timeWeek": 3131,
-    "timeMonth": 916,
-    "timeYear": 269,
+    "uptimeDay": "97.70%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.97%",
+    "time": 280,
+    "timeDay": 10129,
+    "timeWeek": 3517,
+    "timeMonth": 1083,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-06-23": 0,
+      "2025-06-23": 33,
       "2025-05-28": 36,
       "2025-03-26": 84
     }
@@ -204,7 +204,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.86%",
+    "uptimeYear": "87.87%",
     "time": 250,
     "timeDay": 198,
     "timeWeek": 230,
