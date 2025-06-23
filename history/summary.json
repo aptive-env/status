@@ -42,13 +42,13 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.22%",
+    "uptimeDay": "90.20%",
     "uptimeWeek": "98.60%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.95%",
-    "time": 772,
+    "time": 773,
     "timeDay": 9322,
     "timeWeek": 4094,
     "timeMonth": 1848,
@@ -283,17 +283,19 @@
     "url": "https://api.self-service.prd.goaptive.com/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 315,
-    "timeWeek": 358,
-    "timeMonth": 347,
-    "timeYear": 324,
-    "dailyMinutesDown": {}
+    "timeDay": 295,
+    "timeWeek": 347,
+    "timeMonth": 345,
+    "timeYear": 323,
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   }
 ]
