@@ -43,10 +43,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.38%",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.95%",
     "time": 778,
     "timeDay": 513,
@@ -54,7 +54,6 @@
     "timeMonth": 1837,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2025-06-30": 7,
       "2025-06-23": 141,
       "2025-06-12": 124
     }
@@ -82,18 +81,20 @@
     "url": "https://api.onboarding.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.onboarding.prd.goaptive.com.ico",
     "slug": "onboarding",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 206,
+    "time": 207,
     "timeDay": 185,
     "timeWeek": 231,
     "timeMonth": 210,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 5
+    }
   },
   {
     "name": "Notifications",
@@ -142,18 +143,20 @@
     "url": "https://api.sales-app.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.sales-app.prd.goaptive.com.ico",
     "slug": "sales-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 223,
     "timeWeek": 263,
     "timeMonth": 306,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-30": 3
+    }
   },
   {
     "name": "Sales Planning Tool",
@@ -180,9 +183,9 @@
     "slug": "streetsmarts",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 444,
     "timeDay": 284,
@@ -190,7 +193,7 @@
     "timeMonth": 3219,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-06-30": 9,
+      "2025-06-30": 23,
       "2025-06-23": 33,
       "2025-05-28": 36,
       "2025-03-26": 84
@@ -259,9 +262,9 @@
     "slug": "plan-builder",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 178,
     "timeDay": 116,
@@ -269,7 +272,7 @@
     "timeMonth": 192,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-06-30": 0,
+      "2025-06-30": 14,
       "2025-05-06": 61,
       "2025-03-26": 84
     }
