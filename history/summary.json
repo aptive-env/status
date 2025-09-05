@@ -61,19 +61,19 @@
     "url": "https://apistats.aptive.guru",
     "icon": "https://icons.duckduckgo.com/ip3/apistats.aptive.guru.ico",
     "slug": "guru",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 964,
-    "timeWeek": 870,
-    "timeMonth": 746,
-    "timeYear": 507,
+    "time": 486,
+    "timeDay": 1480,
+    "timeWeek": 1011,
+    "timeMonth": 784,
+    "timeYear": 511,
     "dailyMinutesDown": {
-      "2025-09-05": 0
+      "2025-09-05": 17
     }
   },
   {
