@@ -40,9 +40,9 @@
     "url": "https://api.field-services.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.field-services.prd.goaptive.com.ico",
     "slug": "field-service",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -52,6 +52,7 @@
     "timeMonth": 658,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2025-09-23": 0,
       "2025-06-23": 141,
       "2025-06-12": 124
     }
