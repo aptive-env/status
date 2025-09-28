@@ -6,18 +6,16 @@
     "slug": "aptive-corporate",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
     "timeDay": 521,
     "timeWeek": 585,
     "timeMonth": 597,
     "timeYear": 550,
-    "dailyMinutesDown": {
-      "2025-09-27": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Branch Manager",
