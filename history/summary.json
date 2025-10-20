@@ -22,19 +22,19 @@
     "url": "https://bmapi.aptive.guru/users/getQuotes",
     "icon": "https://icons.duckduckgo.com/ip3/bmapi.aptive.guru.ico",
     "slug": "branch-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "79.88%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "79.71%",
+    "uptimeWeek": "97.10%",
+    "uptimeMonth": "99.33%",
     "uptimeYear": "99.94%",
-    "time": 1253,
+    "time": 1252,
     "timeDay": 1523,
     "timeWeek": 1306,
     "timeMonth": 1196,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2025-10-20": 290
+      "2025-10-20": 292
     }
   },
   {
@@ -44,17 +44,17 @@
     "slug": "field-service",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "81.02%",
-    "uptimeWeek": "97.29%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "78.96%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.89%",
     "time": 696,
     "timeDay": 535,
     "timeWeek": 666,
     "timeMonth": 645,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-10-20": 273,
+      "2025-10-20": 303,
       "2025-06-23": 141,
       "2025-06-12": 124
     }
