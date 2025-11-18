@@ -4,19 +4,19 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 574,
-    "timeDay": 398,
-    "timeWeek": 498,
+    "timeDay": 451,
+    "timeWeek": 504,
     "timeMonth": 563,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2025-11-18": 7
+      "2025-11-18": 13
     }
   },
   {
@@ -46,9 +46,9 @@
     "slug": "field-service",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "99.89%",
     "time": 698,
     "timeDay": 582,
@@ -56,7 +56,7 @@
     "timeMonth": 646,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-10-20": 327,
       "2025-06-23": 141,
       "2025-06-12": 124
@@ -89,19 +89,19 @@
     "url": "https://api.onboarding.prd.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.onboarding.prd.goaptive.com.ico",
     "slug": "onboarding",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 175,
-    "timeWeek": 271,
-    "timeMonth": 239,
+    "timeDay": 191,
+    "timeWeek": 266,
+    "timeMonth": 238,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 6
     }
   },
   {
@@ -111,9 +111,9 @@
     "slug": "notifications",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 420,
     "timeDay": 181,
@@ -121,7 +121,7 @@
     "timeMonth": 216,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-06-23": 108
     }
   },
@@ -130,19 +130,19 @@
     "url": "https://api.aptive.tech/payments/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.aptive.tech.ico",
     "slug": "payment-service-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 635,
-    "timeDay": 516,
-    "timeWeek": 597,
-    "timeMonth": 558,
+    "time": 636,
+    "timeDay": 541,
+    "timeWeek": 601,
+    "timeMonth": 560,
     "timeYear": 700,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 6,
       "2025-10-28": 25,
       "2025-01-08": 21
     }
@@ -154,9 +154,9 @@
     "slug": "sales-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 307,
     "timeDay": 156,
@@ -164,7 +164,7 @@
     "timeMonth": 311,
     "timeYear": 268,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-06-30": 101
     }
   },
@@ -173,18 +173,20 @@
     "url": "https://spt-api.rep-services.prd.goaptive.com/",
     "icon": "https://icons.duckduckgo.com/ip3/spt-api.rep-services.prd.goaptive.com.ico",
     "slug": "sales-planning-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "98.16%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 191,
-    "timeDay": 269,
-    "timeWeek": 275,
-    "timeMonth": 235,
+    "timeDay": 241,
+    "timeWeek": 263,
+    "timeMonth": 232,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Streetsmarts",
@@ -232,19 +234,19 @@
     "url": "https://api.plan-builder.prd.goaptive.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.plan-builder.prd.goaptive.com.ico",
     "slug": "plan-builder",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 191,
     "timeDay": 167,
-    "timeWeek": 221,
-    "timeMonth": 226,
+    "timeWeek": 215,
+    "timeMonth": 224,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-11-18": 7,
+      "2025-11-18": 13,
       "2025-06-30": 25,
       "2025-05-06": 61,
       "2025-03-26": 84
@@ -257,9 +259,9 @@
     "slug": "self-service",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 341,
     "timeDay": 164,
@@ -267,7 +269,7 @@
     "timeMonth": 226,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-06-23": 108
     }
   }
