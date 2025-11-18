@@ -1,7 +1,7 @@
 url: https://api.street-smarts.prd.goaptive.com/health-check
-status: down
-code: 500
-responseTime: 108
-lastUpdated: 2025-11-18T11:59:25.953Z
+status: up
+code: 200
+responseTime: 240
+lastUpdated: 2025-11-18T12:15:10.071Z
 startTime: 2023-11-14T21:13:46.009Z
 generator: Upptime <https://github.com/upptime/upptime>
