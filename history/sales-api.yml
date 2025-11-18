@@ -1,7 +1,7 @@
 url: https://api.sales-app.prd.goaptive.com/health-check
-status: down
-code: 500
-responseTime: 81
-lastUpdated: 2025-11-18T11:46:45.679Z
+status: up
+code: 200
+responseTime: 296
+lastUpdated: 2025-11-18T12:15:03.474Z
 startTime: 2023-11-14T21:13:44.336Z
 generator: Upptime <https://github.com/upptime/upptime>
