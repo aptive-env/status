@@ -4,16 +4,16 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "82.82%",
-    "uptimeWeek": "79.92%",
-    "uptimeMonth": "83.77%",
-    "uptimeYear": "98.65%",
-    "time": 519,
-    "timeDay": 304,
-    "timeWeek": 310,
-    "timeMonth": 333,
+    "uptimeDay": "81.74%",
+    "uptimeWeek": "79.66%",
+    "uptimeMonth": "83.71%",
+    "uptimeYear": "98.64%",
+    "time": 518,
+    "timeDay": 292,
+    "timeWeek": 307,
+    "timeMonth": 332,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2026-06-01": 37,
@@ -43,7 +43,7 @@
       "2026-06-25": 213,
       "2026-06-26": 341,
       "2026-06-27": 319,
-      "2026-06-28": 238
+      "2026-06-28": 264
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeDay": 961,
     "timeWeek": 1014,
     "timeMonth": 1055,
-    "timeYear": 1195,
+    "timeYear": 1193,
     "dailyMinutesDown": {
       "2025-10-20": 290,
       "2026-04-25": 20
@@ -143,15 +143,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.44%",
+    "uptimeYear": "83.43%",
     "time": 369,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 271,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2025-11-18": 28,
-      "2026-06-28": 1364,
+      "2026-06-28": 1391,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
@@ -271,7 +271,7 @@
     "timeDay": 175,
     "timeWeek": 211,
     "timeMonth": 211,
-    "timeYear": 223,
+    "timeYear": 224,
     "dailyMinutesDown": {
       "2025-11-18": 22
     }
@@ -351,10 +351,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 355,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2025-11-18": 29,
-      "2026-06-28": 1364,
+      "2026-06-28": 1391,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
