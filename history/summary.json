@@ -4,17 +4,17 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "78.59%",
-    "uptimeWeek": "79.84%",
-    "uptimeMonth": "85.85%",
+    "uptimeDay": "76.81%",
+    "uptimeWeek": "79.80%",
+    "uptimeMonth": "85.79%",
     "uptimeYear": "98.82%",
-    "time": 494,
-    "timeDay": 268,
+    "time": 493,
+    "timeDay": 260,
     "timeWeek": 271,
-    "timeMonth": 314,
-    "timeYear": 486,
+    "timeMonth": 313,
+    "timeYear": 485,
     "dailyMinutesDown": {
       "2026-06-12": 172,
       "2026-06-13": 56,
@@ -39,7 +39,7 @@
       "2026-07-02": 392,
       "2026-07-03": 228,
       "2026-07-04": 508,
-      "2026-07-05": 283
+      "2026-07-05": 309
     }
   },
   {
@@ -100,7 +100,7 @@
     "timeDay": 717,
     "timeWeek": 805,
     "timeMonth": 827,
-    "timeYear": 838,
+    "timeYear": 839,
     "dailyMinutesDown": {
       "2025-09-05": 17,
       "2025-09-23": 40,
@@ -139,7 +139,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "81.52%",
+    "uptimeYear": "81.51%",
     "time": 365,
     "timeDay": 0,
     "timeWeek": 0,
@@ -147,7 +147,7 @@
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-11-18": 28,
-      "2026-07-05": 1368,
+      "2026-07-05": 1395,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
@@ -232,7 +232,7 @@
     "timeDay": 308,
     "timeWeek": 230,
     "timeMonth": 232,
-    "timeYear": 471,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-28": 25,
       "2025-11-18": 16
@@ -293,7 +293,7 @@
     "timeDay": 338,
     "timeWeek": 254,
     "timeMonth": 243,
-    "timeYear": 297,
+    "timeYear": 298,
     "dailyMinutesDown": {
       "2025-11-18": 16
     }
@@ -342,11 +342,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
     "status": "down",
-    "uptime": "93.41%",
+    "uptime": "93.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "83.66%",
+    "uptimeYear": "83.65%",
     "time": 359,
     "timeDay": 0,
     "timeWeek": 0,
@@ -354,7 +354,7 @@
     "timeYear": 354,
     "dailyMinutesDown": {
       "2025-11-18": 29,
-      "2026-07-05": 1369,
+      "2026-07-05": 1395,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
