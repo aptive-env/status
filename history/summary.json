@@ -4,16 +4,16 @@
     "url": "https://www.goaptive.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.goaptive.com.ico",
     "slug": "aptive-corporate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "86.71%",
-    "uptimeMonth": "89.74%",
+    "uptimeDay": "91.70%",
+    "uptimeWeek": "86.43%",
+    "uptimeMonth": "89.68%",
     "uptimeYear": "99.14%",
     "time": 467,
-    "timeDay": 330,
-    "timeWeek": 332,
-    "timeMonth": 294,
+    "timeDay": 349,
+    "timeWeek": 335,
+    "timeMonth": 295,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2026-07-03": 212,
@@ -38,7 +38,7 @@
       "2026-07-22": 152,
       "2026-07-23": 111,
       "2026-07-24": 194,
-      "2026-07-25": 66
+      "2026-07-25": 94
     }
   },
   {
@@ -148,7 +148,7 @@
     "timeYear": 258,
     "dailyMinutesDown": {
       "2025-11-18": 28,
-      "2026-07-25": 1127,
+      "2026-07-25": 1155,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -363,7 +363,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.self-service.prd.goaptive.com.ico",
     "slug": "self-service",
     "status": "down",
-    "uptime": "91.41%",
+    "uptime": "91.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -375,7 +375,7 @@
     "timeYear": 352,
     "dailyMinutesDown": {
       "2025-11-18": 29,
-      "2026-07-25": 1127,
+      "2026-07-25": 1156,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
